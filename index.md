@@ -1,4 +1,4 @@
-## Welcome to Songs 2 Sing
+### Lean on Me
 
 Lean on me,
 
