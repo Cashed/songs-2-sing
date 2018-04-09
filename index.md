@@ -28,7 +28,8 @@ Jordan it's time you knew,
 
 the GDP client team is all you need,
 
-
+<br />
+<br />
 
 Your engineers are programming,
 
@@ -36,7 +37,8 @@ they write to a JIRA board,
 
 who needs agility, process is all you need.
 
-
+<br />
+<br />
 
 This tradition is our mission,
 
@@ -46,7 +48,8 @@ don't trip on the JIRA stories,
 
 that's all you need.
 
-
+<br />
+<br />
 
 We share everything we make,
 
@@ -54,11 +57,13 @@ each day at our hour standups,
 
 our engineers sit on the couch and sigh,
 
-
+<br />
+<br />
 
 I wanna see,
 
-
+<br />
+<br />
 
 Don't walk away,
 
@@ -68,7 +73,8 @@ our team will need a leader,
 
 and there Luke is.
 
-
+<br />
+<br />
 
 There comes a day,
 
@@ -78,7 +84,8 @@ and realize happiness is not
 
 where you are
 
-
+<br />
+<br />
 
 Consider the GTM,
 
@@ -86,7 +93,8 @@ consider his dreams,
 
 the ideas of the GTM are all we need,
 
-
+<br />
+<br />
 
 We make our agents for customers,
 
@@ -96,7 +104,8 @@ we unify our visualizations,
 
 we take all the whisper data,
 
-
+<br />
+<br />
 
 Consider the GTM,
 
@@ -104,11 +113,13 @@ his vision and dreams,
 
 the ideas of the GTM are all we need,
 
-
+<br />
+<br />
 
 And then you leave
 
-
+<br />
+<br />
 
 That's right, you go
 
@@ -118,7 +129,8 @@ and when we look to the future
 
 there Luke is
 
-
+<br />
+<br />
 
 You'll be okay
 
